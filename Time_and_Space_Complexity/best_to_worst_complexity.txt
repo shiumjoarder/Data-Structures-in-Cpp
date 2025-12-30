@@ -1,0 +1,30 @@
+N = 1000
+
+
+constant:       O(1)         -> 1
+linear:         O(n)         -> 1000
+logarithmic :   O(logN)      -> 10
+square root :   O(sqrt(N))   ->32
+quadratic   :   O(N*N)       ->10^6
+linearithmic:   O(NlogN)     -> 10000  
+
+space complexity :-
+# variable → O(1)
+# Extra array/vector → O(n)
+# Matrix → O(n²)
+
+
+
+best to wrost complexity :-
+
+constant:       O(1)
+logarithmic :   O(logN) 
+square root :   O(sqrt(N)) 
+linear:         O(n)
+linearithmic:   O(NlogN)
+quadratic   :   O(N*N)   
+
+
+
+key notes :
+sort(a,a+n) -> complexity O(NlogN)
