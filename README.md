@@ -15,6 +15,7 @@ This repository tracks my step-by-step learning, hands-on coding practice, and p
 | **Binary Search**           |    ⏳   | Upcoming                       |
 
 ---
+*More topics will be added here*
 
 ## 📁 Repository Structure
 
@@ -26,7 +27,7 @@ This repository tracks my step-by-step learning, hands-on coding practice, and p
 ## 👤 Author
 
 **MD Shium Joarder**
-ICE Student, BAUET
+**ICE Student,BAUET**
 
 *Follow my journey as I explore the world of algorithms!*
 
